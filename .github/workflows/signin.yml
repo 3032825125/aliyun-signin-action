@@ -28,7 +28,7 @@ jobs:
 
           GP_TOKEN: ${{ secrets.GP_TOKEN}}
 
-          PUSH_TYPES: ''
+          PUSH_TYPES: 'PUSHPLUS'
 
           DO_NOT_REWARD: 'ture'
 
